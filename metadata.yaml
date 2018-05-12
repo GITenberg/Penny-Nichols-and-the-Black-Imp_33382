@@ -1,0 +1,33 @@
+_repo: Penny-Nichols-and-the-Black-Imp_33382
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Clark, Joan
+    birthdate: 1905
+    deathdate: 2002
+    gutenberg_agent_id: '36376'
+    url: http://www.gutenberg.org/2009/agents/36376
+    wikipedia: http://www.gutenberg.org/browse/authors/w#a37000
+description: Penny and her friend are sure "The Black Imp" will win the Huddleson
+  Prize; the sculpture is clearly the best work of art entered in the contest. While
+  the contest results are being announced, a Rembrandt is stolen from the gallery.
+  Next someone burgles Penny's house--looking for what?
+gutenberg_issued: '2010-08-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33382'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Girls -- Juvenile fiction'
+- !lcsh 'Artists -- Juvenile fiction'
+- !lcsh 'Art thieves -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Detective and mystery stories'
+title: Penny Nichols and the Black Imp
+url: http://www.gutenberg.org/ebooks/33382
